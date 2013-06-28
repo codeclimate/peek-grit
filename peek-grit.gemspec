@@ -5,7 +5,7 @@ require 'peek-grit/version'
 
 Gem::Specification.new do |gem|
   gem.name          = 'peek-grit'
-  gem.version       = Peek::grit::VERSION
+  gem.version       = Peek::Grit::VERSION
   gem.authors       = ['Garrett Bjerkhoel']
   gem.email         = ['me@garrettbjerkhoel.com']
   gem.description   = %q{Take a peek into the grit commands made within your Rails application.}
